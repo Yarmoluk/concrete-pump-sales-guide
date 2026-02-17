@@ -1,0 +1,48 @@
+site_name: Concrete Pump Sales Guide
+site_description: Equipment Finance Sales Guide for Concrete Pumping — Concord & Schwing
+site_url: https://yarmoluk.github.io/concrete-pump-sales-guide/
+repo_url: https://github.com/Yarmoluk/concrete-pump-sales-guide
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Chapters:
+    - 1. Concrete Pumping 101: chapters/01-pumping-101.md
+    - 2. Concord vs Schwing — Brand Breakdown: chapters/02-concord-vs-schwing.md
+    - 3. Truck-Mounted Boom Pumps — What Matters: chapters/03-boom-pumps.md
+    - 4. Selling the 2017 Kenworth T880 + Concord: chapters/04-selling-the-rig.md
+    - 5. Talking Like a Concrete Pro: chapters/05-talking-like-a-pro.md
+  - Glossary: glossary.md
