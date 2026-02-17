@@ -11,8 +11,8 @@
 | **Built for** | Scott Nelson, Equipment Finance Sales |
 | **Request received** | Wed, Feb 11, 2026 12:19 PM CST |
 | **Build started** | Mon, Feb 17, 2026 10:41 AM CST |
-| **Published to GitHub Pages** | *(see below)* |
-| **Total build-to-publish time** | *(recorded at completion)* |
+| **Published to GitHub Pages** | Mon, Feb 17, 2026 10:46 AM CST |
+| **Total build-to-publish time** | **5 minutes 14 seconds** (from paste to live site) |
 | **Method** | AI-generated intelligent textbook using Claude Code + MkDocs Material |
 
 ---
