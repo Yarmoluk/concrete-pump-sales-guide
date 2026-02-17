@@ -4,32 +4,43 @@
 
 ---
 
-## Experiment Log
+!!! danger "SCOTT & PATRICK — READ THIS FIRST"
 
-| Metric | Value |
-|--------|-------|
-| **Built for** | Scott Nelson, Equipment Finance Sales |
-| **Request received** | Wed, Feb 11, 2026 12:19 PM CST |
-| **Build started** | Mon, Feb 17, 2026 10:41 AM CST |
-| **Published to GitHub Pages** | Mon, Feb 17, 2026 10:46 AM CST |
-| **Total build-to-publish time** | **5 minutes 14 seconds** (from paste to live site) |
-| **Method** | AI-generated intelligent textbook using Claude Code + MkDocs Material |
+    ## The Experiment: Human Lag vs. Machine Speed
 
----
+    This guide exists because of **one email and one question**: *"What do I need to know about Concord and Schwing concrete pumps to give the customer confidence I understand their business?"*
 
-## A Note to Scott and Patrick on Speed of Flow
+    Here's what happened:
 
-**This is what speed of flow to decision-making looks like.**
+    | Step | Timestamp | Elapsed |
+    |------|-----------|---------|
+    | Scott sends email with the question | **Wed, Feb 11 — 12:19 PM** | — |
+    | Email sits in Dan's inbox (human lag) | 6 days | **144 hours of nothing** |
+    | Dan copies email, pastes into AI system | **Mon, Feb 17 — 10:41:18 AM** | 0:00 |
+    | 5 chapters written (pumping 101, brand comparison, boom pump specs, sales scripts, vocabulary guide) | — | ~3:00 |
+    | Glossary of 25+ industry terms generated | — | ~3:30 |
+    | Full MkDocs site built and deployed to GitHub Pages | — | ~4:30 |
+    | **Live website published to the internet** | **Mon, Feb 17 — 10:46:32 AM** | **5 min 14 sec** |
 
-Scott sent an email asking what he needs to know about Concord and Schwing concrete pumps to sell a 2017 Kenworth T880 rig. That email sat for 6 days. The moment it was pasted into an AI system, a **complete field guide** — with brand comparisons, objection handling scripts, pricing frameworks, customer psychology, and deal-closing language — was **researched, written, structured, and published as a live website in 5 minutes and 14 seconds**.
+    **The bottleneck was never the analysis. It was the email sitting in an inbox for 6 days.**
 
-This changes the nature of competitive intelligence. The traditional approach — hours of Googling, reading spec sheets, calling industry contacts, assembling notes — compresses into minutes. The hard brain work of "what do I need to know to walk into this meeting?" gets answered instantly, so the real thinking can focus on strategy: which customers to call, how to position the deal, what financing structure wins.
+    The AI processing time — to research an entire industry vertical, compare two competing manufacturers head-to-head, build a pricing framework, write objection-handling scripts for every likely pushback, and publish it as a structured reference site — was **5 minutes and 14 seconds**.
 
-**What-if scenarios that used to take days of analog prefrontal cortex processing now resolve in minutes.** What if the customer prefers Schwing? Handled. What if they push back on 2017 being too old? Scripted. What if they don't know their breakeven? Calculated. Every branch of the sales conversation is mapped before Scott picks up the phone.
+    ---
 
-This is game theory at speed — analyzing the layered, multi-variable reality of a B2B equipment sale (brand positioning, customer psychology, financing math, objection trees) and delivering structured decision support faster than the competition can open a browser tab.
+    ### Why This Matters for How We Work
 
-**The 6-day gap was the email sitting in an inbox. The actual analysis took 5 minutes.**
+    This is one of a series of experiments Dan is running at scale. The thesis:
+
+    **The traditional "what if" process — reading, Googling, calling contacts, thinking it over for a few days, assembling notes — is analog prefrontal cortex work. It's slow, it's low-yield, and it doesn't scale.** A senior person might spend 4–8 hours building this level of domain fluency. Most people never do it at all — they wing the sales call.
+
+    What changes when the research-to-insight cycle compresses from days to minutes:
+
+    - **Competitive intelligence** — You walk into every meeting with deeper knowledge than the customer expects. Not surface-level — layered, structured, with objection trees pre-mapped.
+    - **What-if scenario analysis** — What if they prefer Schwing? Handled. What if they say 2017 is too old? Scripted. What if they don't know their breakeven? Calculated. Every branch is mapped before you pick up the phone.
+    - **Game theory at speed** — A B2B equipment sale is a multi-variable game: brand positioning, customer psychology, financing math, competitive dynamics, timing. Analyzing all those layers simultaneously used to require expensive consultants or years of experience. Now it takes minutes.
+
+    **This is the first inning.** With more context, more memory, and better optimization of the AI pipeline, these experiments push further — deeper analysis, more variables, faster iteration. The ceiling isn't the technology. It's how fast we can feed it real-world problems.
 
 ---
 
