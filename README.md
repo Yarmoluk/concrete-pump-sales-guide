@@ -1,8 +1,9 @@
 # Concrete Pump Sales Guide
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-concrete--pump--sales--guide-orange?style=for-the-badge)](https://yarmoluk.github.io/concrete-pump-sales-guide/)
-[![GitHub](https://img.shields.io/badge/GitHub-Yarmoluk%2Fconcrete--pump--sales--guide-181717?style=for-the-badge&logo=github)](https://github.com/Yarmoluk/concrete-pump-sales-guide)
-[![MkDocs](https://img.shields.io/badge/MkDocs-Material-526CFE?style=for-the-badge&logo=materialformkdocs)](https://squidfunk.github.io/mkdocs-material/)
+![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-grey?style=for-the-badge)
+![MIT](https://img.shields.io/badge/MIT-lightgrey?style=for-the-badge)
 
 **Equipment Finance Field Guide for Concrete Pumping Rigs**
 
